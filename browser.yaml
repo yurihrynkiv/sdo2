@@ -18,20 +18,20 @@ microtrainings:
   - pattern: 'https?://console\.cloud\.com(:.*|(/.*))?$'
     category: 'SAPs Security Learning'
     name: 'Cloud Hosting'
-    path: './Cloud Hosting.md'
+    path: './cloudHosting.md'
     enable: true
   - pattern: 'https?://stackoverflow\.com(:.*|(/.*))?$'
     category: 'SAP Security Learning'
     name: 'Stackoverflow'
-    path: './Stackoverflow.md'
+    path: './stackoverflow.md'
     enabled: true
   - pattern: 'https?://stackoverflow\.com(:.*|(/.*))?$'
     category: 'SAP Security Learning'
-    name: 'Stackoverflow 1'
-    path: './Stackoverflow.md'
+    name: 'stackoverflow 1'
+    path: './stackoverflow.md'
     enabled: true
   - pattern: 'https?://stackoverflow\.com(:.*|(/.*))?$'
     category: 'SAP2 Security Learning'
     name: 'Stackoverflow a'
-    path: './Stackoverflow.md'
+    path: './stackoverflow.md'
     enabled: true
