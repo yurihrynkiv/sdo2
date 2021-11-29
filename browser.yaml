@@ -1,0 +1,37 @@
+version: 1.0
+microtrainings:
+  - pattern: '^https?://console\.aws\.com(:.*|(/.*))?$'
+    category: 'SAP Security Learning'
+    name: 'AWS Usage'
+    path: './AWS Usage.md'
+    enable: true
+  - pattern: '^https?://console\.aws\.com(:.*|(/.*))?$'
+    category: 'SAP Security Learning'
+    name: 'AWS Usage 2'
+    path: './AWS Usage.md'
+    enable: true
+  - pattern: '^https?://console\.aws\.com(:.*|(/.*))?$'
+    category: 'Test Security Learning'
+    name: 'AWS Usage test'
+    path: './AWS Usage.md'
+    enable: true
+  - pattern: 'https?://console\.cloud\.com(:.*|(/.*))?$'
+    category: 'SAPs Security Learning'
+    name: 'Cloud Hosting'
+    path: './Cloud Hosting.md'
+    enable: true
+  - pattern: 'https?://stackoverflow\.com(:.*|(/.*))?$'
+    category: 'SAP Security Learning'
+    name: 'Stackoverflow'
+    path: './Stackoverflow.md'
+    enabled: true
+  - pattern: 'https?://stackoverflow\.com(:.*|(/.*))?$'
+    category: 'SAP Security Learning'
+    name: 'Stackoverflow 1'
+    path: './Stackoverflow.md'
+    enabled: true
+  - pattern: 'https?://stackoverflow\.com(:.*|(/.*))?$'
+    category: 'SAP2 Security Learning'
+    name: 'Stackoverflow a'
+    path: './Stackoverflow.md'
+    enabled: true
