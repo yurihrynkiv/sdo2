@@ -3,7 +3,7 @@ microtrainings:
   - pattern: '^https?://aws\.amazon\.com(:.*|(/.*))?$'
     category: 'SAP Security Learning'
     name: 'AWS Usage'
-    path: './AWS Usage.md'
+    path: './cloudConsole.md'
     enable: true
   - pattern: '^https?://console\.aws\.com(:.*|(/.*))?$'
     category: 'SAP Security Learning'
