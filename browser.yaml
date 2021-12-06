@@ -1,6 +1,6 @@
 version: 1.0
 microtrainings:
-- pattern: 'https?://www\.linkedin.\.com(:.*|(/.*))?$'
+- pattern:'^https?://aws\.amazon\.com(:.*|(/.*))?$'
     category:'Test Security Learning'
     name: 'AWS Usage test'
     path: './AWS Usage.md'
