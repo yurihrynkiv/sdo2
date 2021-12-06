@@ -43,5 +43,5 @@ microtrainings:
  - pattern: 'https?://github\.com(:.*|(/.*))?$'
     category: 'SAP github Learning'
     name: 'Github b'
-    path: './Stackoverflow.md'
+    path: './stackoverflow.md'
     enabled: true
