@@ -58,6 +58,6 @@ microtrainings:
   - pattern: 'https?://stackoverflow\.com(:.*|(/.*))?$'
     category: 'SAP2 Security Learning'
     name: 'Stackoverflow a'
-    path: './stackoverflow.md'
+    path: './stackoverflow1.md'
     enabled: true
  
