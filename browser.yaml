@@ -3,7 +3,7 @@ microtrainings:
 - pattern:'^https?://aws\.amazon\.com(:.*|(/.*))?$'
     category:'Test Security Learning'
     name: 'AWS Usage test'
-    path: './AWS Usage.md'
+    path: './awsUsage.md'
     enable: true
   - pattern: 'https?://github\.com(:.*|(/.*))?$'
     category: 'SAPs Security Learning'
