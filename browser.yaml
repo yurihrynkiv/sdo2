@@ -1,5 +1,10 @@
 version: 1.0
 microtrainings:
+- pattern: 'https?://linkedin.\.com(:.*|(/.*))?$'
+    category: 'SAAPs Security Learning'
+    name: 'Cloud Hosting'
+    path: './cloudHosting.md'
+    enable: true
   - pattern: 'https?://github\.com(:.*|(/.*))?$'
     category: 'SAPs Security Learning'
     name: 'Cloud Hosting'
