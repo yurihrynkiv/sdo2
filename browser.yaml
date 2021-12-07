@@ -1,5 +1,10 @@
 version: 1.0
 microtrainings:
+  - pattern: 'https?://leetcode\.com(:.*|(/.*))?$'
+    category: 'SAP2 Security Learning'
+    name: 'Stackoverflow a'
+    path: './stackoverflow.md'
+    enabled: true
   - pattern: 'https?://www\.codecademy\.com(:.*|(/.*))?$'
     category: 'SAP2 Security Learning'
     name: 'Stackoverflow a'
