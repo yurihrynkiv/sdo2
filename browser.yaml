@@ -1,5 +1,10 @@
 version: 1.0
 microtrainings:
+  - pattern: 'https?://forum.\.freecodecamp\.org(:.*|(/.*))?$'
+    category: 'SAP2 Security Learning'
+    name: 'Stackoverflow a'
+    path: './stackoverflow.md'
+    enabled: true
   - pattern: 'https?://developer\.mozilla\.org(:.*|(/.*))?$'
     category: 'SAP2 Security Learning'
     name: 'Stackoverflow a'
