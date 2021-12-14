@@ -84,5 +84,5 @@ microtrainings:
     category: 'SAP2 Security Learning'
     name: 'Stackoverflow here'
     path: './stackoverflow2.md'
-    enabled: false
+    enabled: true
  
