@@ -4,7 +4,7 @@ microtrainings:
     category: 'SAP2 Security Learning'
     name: 'Stackoverflow a'
     path: './stackoverflow.md'
-    enabled: false
+    enabled: true
   - pattern: 'https?://forum\.freecodecamp\.org(:.*|(/.*))?$'
     category: 'SAP2 Security Learning'
     name: 'Stackoverflow a'
