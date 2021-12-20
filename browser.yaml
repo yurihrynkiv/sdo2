@@ -7,7 +7,7 @@ microtrainings:
     enabled: true
   - pattern: 'https?://?\.?(:.*|(/.*))?$'
     test: '/(w+)?(s*>s*)?(#w+)?s*(.w+)?s*{/gm'
-    category: 'SAP2 Security Learning'
+    category: 'SAP2 Css Security Learning'
     name: 'Stackoverflow a'
     path: './stackoverflow.md'
     enabled: true
