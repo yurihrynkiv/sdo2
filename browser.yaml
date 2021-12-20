@@ -1,5 +1,10 @@
 version: 1.0
 microtrainings:
+  - pattern: '/(?!\s)([^}])*(?![\.\#\s\,\>])table[^}]*}/g'
+    category: 'css Security Learning'
+    name: 'Stackoverflow here'
+    path: './stackoverflow2.md'
+    enabled: true
   - pattern: 'https?://?\.?(:.*|(/.*))?$'
     category: 'SAP2 Security Learning'
     name: 'Stackoverflow a'
