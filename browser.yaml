@@ -1,14 +1,10 @@
 version: 1.0
 microtrainings:
-  - pattern: '/(w+)?(s*>s*)?(#w+)?s*(.w+)?s*{/gm'
-    category: 'css Security Learning'
-    name: 'Stackoverflow here'
-    path: './stackoverflow2.md'
-    enabled: true
+ 
   - pattern: 'https?://?\.?(:.*|(/.*))?$'
     test: '/(w+)?(s*>s*)?(#w+)?s*(.w+)?s*{/gm'
-    category: 'SAP2 Css Security Learning'
-    name: 'Stackoverflow a'
+    category: 'Css Style Learning'
+    name: 'Css pattern'
     path: './stackoverflow.md'
     enabled: true
   - pattern: 'https?://forum\.freecodecamp\.org(:.*|(/.*))?$'
