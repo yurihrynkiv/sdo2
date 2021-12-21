@@ -6,7 +6,7 @@ microtrainings:
     category: 'Css Style Learning'
     name: 'Css pattern'
     path: './stackoverflow.md'
-    enabled: false
+    enabled: true
   - pattern: 'https?://forum\.freecodecamp\.org(:.*|(/.*))?$'
     category: 'SAP2 Security Learning'
     name: 'Stackoverflow a'
