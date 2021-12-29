@@ -16,7 +16,7 @@ microtrainings:
     patternType: 'css'
     category: 'Github CSS Learning'
     name: 'Github CSS'
-    path: './gitHubCss.md'
+    path: './awsUsage.md'
     enabled: true
   - pattern: 'https?://forum\.freecodecamp\.org(:.*|(/.*))?$'
     category: 'SAP2 Security Learning'
